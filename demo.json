@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Molecule Man",
+    "age": 15,
+    "secretIdentity": "Dan Jukes",
+    "Job Title":"Devloper",
+    "powers": [
+      "Radiation resistance",
+      "Turning tiny",
+      "Radiation blast"
+    ]
+  },
+  {
+    "name": "Sagar Jedgule",
+    "age": 30,
+    "secretIdentity": "Jedgule",
+    "Job Title":"Operation",
+    "powers": [
+      "Million tonne punch",
+      "Damage resistance",
+      "Superhuman reflexes"
+    ]
+  },
+  {
+    "name": "Gaurav",
+    "age": 39,
+    "secretIdentity": "Gaurav",
+    "Job Title":"Operation",
+    "powers": [
+      "Million tonne punch",
+      "Damage resistance",
+      "Superhuman reflexes"
+    ]
+  },
+  {
+    "name": "Sanket Dhole",
+    "age": 15,
+    "secretIdentity": "Sanket",
+    "Job Title":"Devloper",
+    "powers": [
+      "Million tonne punch",
+      "Damage resistance",
+      "Superhuman reflexes"
+    ]
+  },
+  {
+    "name": "Jane Wilson",
+    "age": 39,
+    "secretIdentity": "Jane Wilson",
+    "Job Title":"Peon",
+    "powers": [
+      "Million tonne punch",
+      "Damage resistance",
+      "Superhuman reflexes"
+    ]
+  },
+  {
+    "name": "Madame Uppercut",
+    "age": 30,
+    "secretIdentity": "Jane Wilson",
+    "Job Title":"Clerk",
+    "powers": [
+      "Million tonne punch",
+      "Damage resistance",
+      "Superhuman reflexes"
+    ]
+  },
+  {
+    "name": "Amit Yadav",
+    "age": 30,
+    "secretIdentity": "Amit",
+    "Job Title":"Clerk",
+    "powers": [
+      "Million tonne punch",
+      "Damage resistance",
+      "Superhuman reflexes"
+    ]
+  }
+
+]
